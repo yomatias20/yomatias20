@@ -3,15 +3,19 @@
 
 Soy un apasionado de la programación en busca de su primer trabajo. 
 Bueno... he trabajado antes en el rubro, pero en este caso "antes" significa en la prehistoria.
-Estoy hablando de la época del MS-DOS y los primeros Windows. 
+Estoy hablando de la época del **MS-DOS** y los primeros Windows. 
 Ha pasado mucho tiempo y de más está decir que la tecnología cambió completamente.
 
-En lo que se refiere a mi nueva vida profesional, he completado una formación como desarrollador web full stack, con base en Java y Spring Boot para el backend y HTML y CSS para el frontend.
-Me sigo formando (ahora estoy aprendiendo JavaScript) y me gustaría capacitarme también en Data Science, IA y mucho más, pero por el momento debo centrarme en profundizar y desarrollar mis habilidades actuales.
+En lo que se refiere a mi nueva vida profesional, he completado una formación como **desarrollador web full stack**, con base en **Java** y **Spring Boot** para el backend y **HTML** y **CSS** para el frontend.
+También he completado un curso de **Git** y **GitHub**, otro de **JavaScript** y otro de **API REST** (también en Java y Spring Boot).
+Actualmente estoy aprendiendo **Angular** y **JUnit**, y poniendo en práctica los conocimientos adquiridos.
 
-Me gustaría colaborar en proyectos de open source. 
+En un futuro, me gustaría capacitarme también en Data Science, IA y mucho más, pero por el momento debo centrarme en profundizar y desarrollar mis habilidades actuales.
+
+Me gustaría colaborar en proyectos de open source. :+1:
 
 Saludos!
+
 
 
 
